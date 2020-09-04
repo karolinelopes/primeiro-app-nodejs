@@ -1,8 +1,6 @@
 # # primeiro-app-nodejs
 
-<div align="center">
-    <img src="/screenshots/fala-einstein.png" width="400px"</img> 
-</div>
+<img src="https://imgur.com/a/U7F0s9U" width="400"/>
 
 Aplicativo realizado na aula de Desenvolvimento Mobile da Fatec Itu pelo professor Ricardo Leme.
 A aplicação fala algumas frases estabelecidas aleatoriamente e se você quiser pode parar quando achar necessária.
