@@ -1,10 +1,10 @@
-# # primeiro-app-nodejs
+# # Primeiro app em nodejs
 
 
 Aplicativo realizado na aula de Desenvolvimento Mobile da Fatec Itu pelo professor Ricardo Leme.
 A aplicação fala algumas frases estabelecidas aleatoriamente e se você quiser pode parar quando achar necessária.
 
-Bibliotecas e Software utilizado na aplicação:
+Bibliotecas e IDE utilizado na aplicação:
 - Visual Code
 - React Native
 - Json
@@ -52,3 +52,6 @@ Edite o arquivo app.json e informe os dados do bundle, conforme exemplo:
 		
 ## Digite o comando de geração da APK:
 `$ expo build:android -t apk`
+
+
+![appFalaEinstein](https://github.com/karolinelopes/primeiro-app-nodejs/blob/master/appFalaEinstein.png)
