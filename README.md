@@ -10,10 +10,6 @@ Bibliotecas e IDE utilizado na aplicação:
 - Json
 - NodeJS
 
-# Primeiros passos
-Em ambiente Windows, configure o PowerShell como Administrador, para evitar erros na execução de scripts, digitando:
-`$ Set-ExecutionPolicy Unrestricted (selecione a opção A-All)`
-
 ## Instale o expo-cli de forma global
 `$ npm install -g expo-cli`
 
